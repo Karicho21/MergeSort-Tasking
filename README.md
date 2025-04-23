@@ -20,12 +20,12 @@ Steps to compile and experiment:
 
 Example execution result:
 
-Sorting array of 10 elements took: 3.326e-06 seconds
-Sorting array of 100 elements took: 2.8301e-05 seconds
-Sorting array of 1000 elements took: 0.000289798 seconds
-Sorting array of 10000 elements took: 0.00317631 seconds
-Sorting array of 100000 elements took: 0.035263 seconds
-Sorting array of 1000000 elements took: 0.394745 seconds
-Sorting array of 10000000 elements took: 4.35744 seconds
-Sorting array of 100000000 elements took: 47.1071 seconds
+- Sorting array of 10 elements took: 3.326e-06 seconds
+- Sorting array of 100 elements took: 2.8301e-05 seconds
+- Sorting array of 1000 elements took: 0.000289798 seconds
+- Sorting array of 10000 elements took: 0.00317631 seconds
+- Sorting array of 100000 elements took: 0.035263 seconds
+- Sorting array of 1000000 elements took: 0.394745 seconds
+- Sorting array of 10000000 elements took: 4.35744 seconds
+- Sorting array of 100000000 elements took: 47.1071 seconds
 
