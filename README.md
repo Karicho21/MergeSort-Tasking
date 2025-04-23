@@ -28,4 +28,22 @@ Example execution result:
 - Sorting array of 1000000 elements took: 0.394745 seconds
 - Sorting array of 10000000 elements took: 4.35744 seconds
 - Sorting array of 100000000 elements took: 47.1071 seconds
+- Sorting array of 1000000000 elements took: 511.265 seconds
 
+Execution time varies each time. However the range of the time should be similar.
+
+
+
+Sequential execution result and comparing with multithread:
+
+- Time taken to sort 10 elements: 4.839e-06 seconds (145%)
+- Time taken to sort 100 elements: 4.5972e-05 seconds (162%)
+- Time taken to sort 1000 elements: 0.00050224 seconds (173%)
+- Time taken to sort 10000 elements: 0.0056795 seconds (179%)
+- Time taken to sort 100000 elements: 0.0629707 seconds (178%)
+- Time taken to sort 1000000 elements: 0.67559 seconds (171%)
+- Time taken to sort 10000000 elements: 7.21877 seconds (166%)
+- Time taken to sort 100000000 elements: 77.049 seconds (164%)
+- Time taken to sort 1000000000 elements: 834.524 seconds (163%)
+
+Average of 166% longer execution time compared  to multithread execution.
